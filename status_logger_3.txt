@@ -1,0 +1,28 @@
+Done: 
+ 
+sliced from top to bottom...
+--------------------------------------------
+
+Layer 1:
+ID: 2    | ID: 7    | ID: 4    | ID: 6    | 
+ID: 2    | ID: 7    | ID: 4    | ID: 6    | 
+ID: 2    | ID: 7    | ID: 7    | ID: 7    | 
+ID: 2    | ID: 7    | ID: 7    | ID: 7    | 
+
+Layer 2:
+ID: 2    | ID: 1    | ID: 4    | ID: 6    | 
+ID: 1    | ID: 1    | ID: 1    | ID: 6    | 
+ID: 1    | ID: 1    | ID: 1    | ID: 1    | 
+ID: 5    | ID: 5    | ID: 5    | ID: 5    | 
+
+Layer 3:
+ID: 2    | ID: 3    | ID: 4    | ID: 6    | 
+ID: 2    | ID: 3    | ID: 4    | ID: 3    | 
+ID: 2    | ID: 3    | ID: 3    | ID: 3    | 
+ID: 5    | ID: 3    | ID: 3    | ID: 5    | 
+
+Layer 4:
+ID: 8    | ID: 8    | ID: 4    | ID: 6    | 
+ID: 8    | ID: 8    | ID: 4    | ID: 6    | 
+ID: 8    | ID: 8    | ID: 4    | ID: 6    | 
+ID: 8    | ID: 8    | ID: 5    | ID: 5    | 
