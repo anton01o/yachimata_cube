@@ -6,3 +6,9 @@ it will find a solution for l = 3 for example but there are many more.
 cube is just a framework
 
 orientations is the blocks hardcoded there you can see which block has which ID. and from that it builds a list with all blocks in all orientations i could imagine.
+
+![Solved](https://github.com/anton01o/yachimata_cube/blob/main/IMG_20220606_192437.jpg)
+
+![IDS](https://github.com/anton01o/yachimata_cube/blob/main/IMG_20220606_192327.jpg)
+
+![Solution](https://github.com/anton01o/yachimata_cube/blob/main/solution.txt)
